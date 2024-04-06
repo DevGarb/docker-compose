@@ -4,8 +4,8 @@
   "description": "When you're ready, start your application by running: `docker compose up --build`.",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon -L"
+    "dev": "nodemon -L",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
